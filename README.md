@@ -1,0 +1,1 @@
+# Solving sql questions for interview prep
