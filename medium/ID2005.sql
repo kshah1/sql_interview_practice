@@ -1,6 +1,7 @@
--- Share of Active Users
+-- Share of Active Users (ID2005)
 -- Meta Medium Question
 -- Stratascratch platform
+
 -- Remember: need to cast to decimal because integer divison
 
 SELECT SUM(CASE
